@@ -1,3 +1,7 @@
+### このページの内容は[こちらの記事](https://kentapt.hatenablog.com/entry/2022/01/31/090906)で紹介されています。  
+<br>  
+
+
 # PR曲線による平均適合率の計算について、自分で書いて確認してみる
   
 
@@ -66,7 +70,9 @@
 
 ということなのではないかと個人的には思います。
 
-**分類のための指標(PrecisionとRecall)の解説**https://engineering.mobalab.net/2020/12/03/%E5%88%86%E9%A1%9E%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%8C%87%E6%A8%99precision%E3%81%A8recall%E3%81%AE%E8%A7%A3%E8%AA%AC/
+**分類のための指標(PrecisionとRecall)の解説**
+
+https://engineering.mobalab.net/2020/12/03/%E5%88%86%E9%A1%9E%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%8C%87%E6%A8%99precision%E3%81%A8recall%E3%81%AE%E8%A7%A3%E8%AA%AC/
 
 **Precision, Recall, F値の気持ちを解釈してみる**
 
